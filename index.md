@@ -5,6 +5,9 @@
 ### Loyola Press Projects
 
 [Loyola Press - Company Website](https://www.loyolapress.com/)
+
+**Technologies used in this project:** PHP, Javascript, HTML, CSS, Next.JS, React, CraftCMS, bash scripts, CI/CD, Git, Serverless, Containers, AWS Lambda
+
 [<img src="images/website-loyolapress-2.gif?raw=true"/>](https://www.loyolapress.com/)
 
 ---
