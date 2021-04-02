@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Loyola Press Projects
+## Loyola Press Projects
 
 [Loyola Press - Company Website](https://www.loyolapress.com/)
 
@@ -23,7 +23,7 @@ This website receives thousands of users, and was converted from an older Siteco
 
 ---
 
-### Category Name 2
+## Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -36,6 +36,4 @@ This website receives thousands of users, and was converted from an older Siteco
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
