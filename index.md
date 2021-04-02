@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Loyola Press Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Loyola Press - Company Website](https://www.loyolapress.com/)
+<img src="images/website-loyolapress-2.gif?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
