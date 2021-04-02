@@ -6,7 +6,7 @@
 
 [Loyola Press - Company Website](https://www.loyolapress.com/)
 
-This website was converted from an older Sitecore system to a Serverless website. After completing this project, there was a very significant cost savings for the company versus keeping the Sitecore website. In addition, Serverless provides nearly infinite scalability and site reliability now, without incurring any speed issues for the end users.
+This website receives thousands of users, and was converted from an older Sitecore system to a Serverless website. After completing this project, there was a very significant cost savings for the company versus keeping the Sitecore website. In addition, Serverless provides nearly infinite scalability and site reliability now, without incurring any speed issues for the end users.
 
 **Technologies used in this project:** PHP, Javascript, HTML, CSS, Next.JS, React, CraftCMS, bash scripts, CI/CD, Git, Serverless, Containers, AWS Lambda
 
