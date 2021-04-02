@@ -54,11 +54,11 @@ This app allows users to go on a 3-minute retreat through reading scriptures and
 ## AmericaSmiles Projects
 ---
 
-- [AmericaSmiles - Company Website](https://www.americasmiles.com/)
+[AmericaSmiles - Company Website](https://www.americasmiles.com/)
 
 **Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, MySQL, WordPress
 
-- [Dental Lab Profile](http://www.dentallabprofile.com/)
+[Dental Lab Profile](http://www.dentallabprofile.com/)
 
 **Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, MySQL
 
