@@ -32,9 +32,21 @@ This website is based on the book *Sharing the Wisdom of Time*, written by Pope 
 **Description:** 
 This website is used by lots of schools and students arcoss the country for their online digital textbooks. Once the user is logged in, they are able to view the textbook, create annotations on the pages, and more. 
 
-**Technologies used in this project:** PHP, Javascript, JQuery, HTML, CSS, SimplePie Custom CMS, NodeJS, Angular, APIs
+**Technologies used in this project:** PHP, Javascript, JQuery, HTML, CSS, SimplePie Custom CMS, NodeJS, Angular, SaaS, APIs
 
 [<img src="images/website-digitaltextbooks-lp.gif?raw=true"/>](https://digital.loyolapress.com/)
+
+---
+**3-Minute Retreat App**
+[iOS](https://apps.apple.com/us/app/3-minute-retreat/id323368405)
+[Android](https://play.google.com/store/apps/details?id=com.ThreeMinuteRetreat&hl=en_US&gl=US)
+
+**Description:** 
+This app allows users to go on a 3-minute retreat through reading scriptures and thought-provoking messages. 
+
+**Technologies used in this project:** Unity, C#, PHP, CraftCMS, APIs
+
+<img src="images/qpp-3mr.gif?raw=true"/>
 
 ---
 
