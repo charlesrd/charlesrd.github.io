@@ -27,8 +27,14 @@ This website is based on the book *Sharing the Wisdom of Time*, written by Pope 
 [<img src="images/website-swot.gif?raw=true"/>](https://sharingwisdomoftime.com/)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Digital Textbooks](https://digital.loyolapress.com/)
+
+**Description:** 
+This website is used by lots of schools and students arcoss the country for their online digital textbooks. Once the user is logged in, they are able to view the textbook, create annotations on the pages, and more. 
+
+**Technologies used in this project:** PHP, Javascript, JQuery, HTML, CSS, SimplePie Custom CMS, NodeJS, Angular, APIs
+
+[<img src="images/website-digitaltextbooks-lp.gif?raw=true"/>](https://digital.loyolapress.com/)
 
 ---
 
