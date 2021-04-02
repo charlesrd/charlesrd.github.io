@@ -10,7 +10,7 @@
 **Description:** 
 This website receives thousands of users, and was converted from an older Sitecore system to a Serverless website. After completing this project, there was a very significant cost savings for the company versus keeping the Sitecore website. In addition, Serverless provides nearly infinite scalability and site reliability now, without incurring any speed issues for the end users.
 
-**Technologies used in this project:** PHP, Javascript, JQuery, HTML, CSS, Next.JS, React, CraftCMS, bash scripts, AWS CodePipeline, CI/CD, Git, Serverless, Containers, AWS Lambda
+**Technologies used in this project:** PHP, Javascript, JQuery, HTML, CSS, Next.JS, React, CraftCMS, MySQL, bash scripts, AWS CodePipeline, CI/CD, Git, Serverless, Containers, AWS Lambda
 
 [<img src="images/website-loyolapress-2.gif?raw=true"/>](https://www.loyolapress.com/)
 
@@ -22,7 +22,7 @@ This website is based on the book *Sharing the Wisdom of Time*, written by Pope 
 
 [Yahoo News - Sharing the Wisdom of Time](https://news.yahoo.com/pope-francis-book-sharing-wisdom-110017389.html)
 
-**Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, WordPress
+**Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, MySQL, WordPress
 
 [<img src="images/website-swot.gif?raw=true"/>](https://sharingwisdomoftime.com/)
 
@@ -32,7 +32,7 @@ This website is based on the book *Sharing the Wisdom of Time*, written by Pope 
 **Description:** 
 This website is used by lots of schools and students arcoss the country for their online digital textbooks. Once the user is logged in, they are able to view the textbook, create annotations on the pages, and more. 
 
-**Technologies used in this project:** PHP, Javascript, JQuery, HTML, CSS, SimplePie Custom CMS, NodeJS, Angular, SaaS, APIs
+**Technologies used in this project:** PHP, Javascript, JQuery, HTML, CSS, SimplePie Custom CMS, MySQL, NodeJS, Angular, SaaS, APIs
 
 [<img src="images/website-digitaltextbooks-lp.gif?raw=true"/>](https://digital.loyolapress.com/)
 
@@ -45,19 +45,38 @@ This website is used by lots of schools and students arcoss the country for thei
 **Description:** 
 This app allows users to go on a 3-minute retreat through reading scriptures and thought-provoking messages. 
 
-**Technologies used in this project:** Unity, C#, PHP, CraftCMS, APIs
+**Technologies used in this project:** Unity, C#, PHP, CraftCMS, MySQL, APIs
 
 <img src="images/app-3mr.gif?raw=true"/>
 
 ---
 
-## Category Name 2
+## AmericaSmiles Projects
+---
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [AmericaSmiles - Company Website](https://www.americasmiles.com/)
+
+**Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, MySQL, WordPress
+
+- [Dental Lab Profile](http://www.dentallabprofile.com/)
+
+**Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, MySQL
+
+- [AMS File Manager](http://beta.amsdti.com/)
+
+**Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, Laravel, MySQL
+
+- [ACDLA Certified](https://acdlacertified.com/)
+
+**Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, MySQL, WordPress
+
+- [AMS RunSheet Program](http://amsdti.com/runs/)
+
+**Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, MySQL
+
+- [AMS TimeCard](https://amstimecard.com/)
+
+**Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, MySQL, SPA
 
 ---
 
