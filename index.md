@@ -49,6 +49,13 @@ This app allows users to go on a 3-minute retreat through reading scriptures and
 
 <img src="images/app-3mr.gif?raw=true"/>
 
+### More Projects
+- **[Loyola Press - E-Commerce Website](https://store.loyolapress.com/)**
+- **[Wanderlight - WordPress Website](https://www.wanderlightgame.com/)**
+- **[Wanderlight App (available on Web, iOS, and Android)](https://login.wanderlightgame.com/login)**
+- **[Growing with God - PWA App](https://app.growingwithgod.com/)**
+- **[Ignatian Spirituality - Wordpress Website](https://www.ignatianspirituality.com/)**
+
 ---
 
 ## AmericaSmiles
