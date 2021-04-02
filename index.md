@@ -38,8 +38,9 @@ This website is used by lots of schools and students arcoss the country for thei
 
 ---
 **3-Minute Retreat App**
-[iOS](https://apps.apple.com/us/app/3-minute-retreat/id323368405)
-[Android](https://play.google.com/store/apps/details?id=com.ThreeMinuteRetreat&hl=en_US&gl=US)
+
+- [iOS](https://apps.apple.com/us/app/3-minute-retreat/id323368405)
+- [Android](https://play.google.com/store/apps/details?id=com.ThreeMinuteRetreat&hl=en_US&gl=US)
 
 **Description:** 
 This app allows users to go on a 3-minute retreat through reading scriptures and thought-provoking messages. 
