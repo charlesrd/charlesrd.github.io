@@ -2,7 +2,7 @@
 
 ---
 
-## Loyola Press Projects
+## Loyola Press
 ---
 
 **[Loyola Press - Company Website](https://www.loyolapress.com/)**
@@ -51,7 +51,7 @@ This app allows users to go on a 3-minute retreat through reading scriptures and
 
 ---
 
-## AmericaSmiles Projects
+## AmericaSmiles
 ---
 
 **[AmericaSmiles - Company Website](https://www.americasmiles.com/)**
@@ -90,7 +90,12 @@ This app allows users to go on a 3-minute retreat through reading scriptures and
 
 ---
 
+## MathTutor Educational Software
+---
 
+**[MathTutor Educational Software - Company Website](https://www.mathtutor.com/)**
+
+**Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS
 
 
 
