@@ -5,7 +5,7 @@
 ### Loyola Press Projects
 
 [Loyola Press - Company Website](https://www.loyolapress.com/)
-<img src="images/website-loyolapress-2.gif?raw=true"/>
+[<img src="images/website-loyolapress-2.gif?raw=true"/>](https://www.loyolapress.com/)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
