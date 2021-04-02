@@ -47,7 +47,7 @@ This app allows users to go on a 3-minute retreat through reading scriptures and
 
 **Technologies used in this project:** Unity, C#, PHP, CraftCMS, APIs
 
-<img src="images/qpp-3mr.gif?raw=true"/>
+<img src="images/app-3mr.gif?raw=true"/>
 
 ---
 
