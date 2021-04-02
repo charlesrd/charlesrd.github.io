@@ -2,12 +2,12 @@ title: Charles Dyke # your name (or website title) here
 logo: "/images/charles-r-dyke-profile-code-circle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Web Developer 
-  <br><br>
+  <br>
   Systems Administrator 
-  <br><br>
+  <br>
   App Developer
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/charles-r-dyke">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: G-ML388WDQL3 # your Google Analytics tracking ID here
+google_analytics: UA-58413608-3 # your Google Analytics tracking ID here
