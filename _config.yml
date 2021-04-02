@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Systems Administrator 
   <br>
   App Developer
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/charles-r-dyke">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
