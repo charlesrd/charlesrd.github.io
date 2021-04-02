@@ -54,7 +54,7 @@ This app allows users to go on a 3-minute retreat through reading scriptures and
 - **[Wanderlight - WordPress Website](https://www.wanderlightgame.com/)**
 - **[Wanderlight App (available on Web, iOS, and Android)](https://login.wanderlightgame.com/login)**
 - **[Growing with God - PWA App](https://app.growingwithgod.com/)**
-- **[Ignatian Spirituality - Wordpress Website](https://www.ignatianspirituality.com/)**
+- **[Ignatian Spirituality - WordPress Website](https://www.ignatianspirituality.com/)**
 
 ---
 
