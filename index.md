@@ -57,27 +57,31 @@ This app allows users to go on a 3-minute retreat through reading scriptures and
 **[AmericaSmiles - Company Website](https://www.americasmiles.com/)**
 
 **Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, MySQL, WordPress
+---
 
 **[Dental Lab Profile](http://www.dentallabprofile.com/)**
 
 **Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, MySQL
+---
 
 **[AMS File Manager](http://beta.amsdti.com/)**
 
 **Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, Laravel, MySQL
+---
 
 **[ACDLA Certified](https://acdlacertified.com/)**
 
 **Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, MySQL, WordPress
+---
 
 **[AMS RunSheet Program](http://amsdti.com/runs/)**
 
 **Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, MySQL
+---
 
 **[AMS TimeCard](https://amstimecard.com/)**
 
 **Technologies used in this project:** PHP, Javascript, jQuery, HTML, CSS, MySQL, SPA
-
 ---
 
 
